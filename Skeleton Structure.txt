@@ -1,0 +1,69 @@
+Stay_Low_Key/
+│
+├── src/
+│   ├── routes/
+│   │   ├── +page.svelte                   # "Coming Soon" page
+│   │   ├── animation.svelte               # Initial animation page
+│   │   └── ...                            # Other route files (if any)
+│   │
+│   └── lib/
+│       └── components/
+│           ├── SocialMediaIcons.svelte    # Social media icons component
+│           └── SignupModal.svelte         # Signup modal component (to be created)
+│
+├── static/
+│   ├── images/                            # Static images
+│   │   └── slk_background.png             # Background image
+│   ├── fonts/                             # Static font files
+│   │   └── ...                            # Font files
+│   └── animations/                        # Animations directory
+│       └── ...                            # Animation files
+│
+├── node_modules/                          # Node.js modules
+├── package.json                           # Project metadata and dependencies
+├── svelte.config.js                       # SvelteKit configuration
+└── ...
+
+│    
+│     
+│   
+│  
+│       
+│           
+│
+├── 
+│   
+│  
+│   
+│  
+│   
+│
+│
+├──
+│
+├── 
+├── 
+└── 
+
+
+├──
+├──
+├──
+├──
+├──
+├──
+├──
+├──├──
+├──
+├──
+├──
+├──├──├──
+├──
+├──├──
+├──├──├──
+
+
+├──├──├──├──
+
+
+├──
