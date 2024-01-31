@@ -62,4 +62,6 @@ jobs:
           app-name: 'ComingSoonSLKPage'
           slot-name: 'Production'
           package: .
+          env:
+            ${{ secrets.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 }}
           
